@@ -1,0 +1,24 @@
+#main-content {
+    background-color: #fff1e1;
+}
+
+
+h1, p {
+    color: #322514;
+}
+
+#nav-bar {
+    list-style: none;
+    text-align: right;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+body {
+    background-color: #fbcbc9;
+    max-width: 100%;
+}
